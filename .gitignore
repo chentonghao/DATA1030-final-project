@@ -1,2 +1,4 @@
 *.pkl
-src/best_xgb_model_3_runs.pkl
+*.joblib
+src/*.pkl
+src/*.joblib
